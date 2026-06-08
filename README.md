@@ -31,14 +31,14 @@ Endometriosis affects ~10% of reproductive-aged women, yet diagnosis is typicall
 
 | Notebook | Description | Paper Section |
 |----------|-------------|---------------|
-| `Feature_Selection_Step.ipynb` | Consensus-based filter pipeline (Chi², MI, ReliefF, Phi redundancy removal) | §3.1 |
-| `UMAP.ipynb` | UMAP visualization with Hamming distance for both feature spaces | §4.1 |
-| `DBSCAN.ipynb` | Unsupervised clustering metrics (Silhouette, DB Index, Dunn) and quality metric Q | §4.1 |
-| `Baseline Models.ipynb` | Multi-classifier benchmark on the full 58-feature space | §4.2 |
-| `Baseline 35.ipynb` | Youden-adjusted Random Forest on the reduced 35-feature space | §4.2 |
-| `Hyperparams_RandomForest.ipynb` | Hyperparameter tuning and bootstrap confidence intervals | §4.2 |
-| `SHAP_Instances.ipynb` | TreeSHAP global/local explainability and misclassification analysis | §4.3 |
-| `Related Work.ipynb` | Comparative evaluation against Goldstein et al. (2023) | §4.4 |
+| `Feature_Selection_Step.ipynb` | Consensus-based filter pipeline (Chi², MI, ReliefF, Phi redundancy removal) | §4.1|
+| `UMAP.ipynb` | UMAP visualization with Hamming distance for both feature spaces | §5.1 |
+| `DBSCAN.ipynb` | Unsupervised clustering metrics (Silhouette, DB Index, Dunn) and quality metric Q | §5.1 |
+| `Baseline Models.ipynb` | Multi-classifier benchmark on the full 58-feature space | §5.2 |
+| `Baseline 35.ipynb` | Youden-adjusted Random Forest on the reduced 35-feature space | §5.2 |
+| `Hyperparams_RandomForest.ipynb` | Hyperparameter tuning and bootstrap confidence intervals | §5.2 |
+| `SHAP_Instances.ipynb` | TreeSHAP global/local explainability and misclassification analysis | §5.3 |
+| `Related Work.ipynb` | Comparative evaluation against Goldstein et al. (2023) | §5.4 |
 | `dataset.xlsx` | Clinical dataset (886 patients, 58 binary symptoms) | §3 |
 
 ---
