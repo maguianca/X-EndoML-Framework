@@ -38,6 +38,7 @@ Endometriosis affects ~10% of reproductive-aged women, yet diagnosis is typicall
 | `Baseline 35.ipynb` | Youden-adjusted Random Forest on the reduced 35-feature space | §5.2 |
 | `Hyperparams_RandomForest.ipynb` | Hyperparameter tuning and bootstrap confidence intervals | §5.2 |
 | `SHAP_Instances.ipynb` | TreeSHAP global/local explainability and misclassification analysis | §5.3 |
+| `Clinical_Validation.ipynb` | Clinical utility through Decision Curve Analysis | §5.4 |
 | `Related Work.ipynb` | Comparative evaluation against Goldstein et al. (2023) | §5.4 |
 | `dataset.xlsx` | Clinical dataset (886 patients, 58 binary symptoms) | §3 |
 
