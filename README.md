@@ -31,6 +31,7 @@ Endometriosis affects ~10% of reproductive-aged women, yet diagnosis is typicall
 
 | Notebook | Description | Paper Section |
 |----------|-------------|---------------|
+| `EDA.ipynb` | Exploratory data analysis (Phi correlation matrix, pairwise associations) | §3.1|
 | `Feature_Selection_Step.ipynb` | Consensus-based filter pipeline (Chi², MI, ReliefF, Phi redundancy removal) | §4.1|
 | `UMAP.ipynb` | UMAP visualization with Hamming distance for both feature spaces | §5.1 |
 | `DBSCAN.ipynb` | Unsupervised clustering metrics (Silhouette, DB Index, Dunn) and quality metric Q | §5.1 |
