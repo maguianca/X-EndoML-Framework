@@ -7,6 +7,7 @@
 **X-EndoML** is a machine learning-driven framework for non-invasive endometriosis risk prediction using self-reported symptoms. It integrates consensus-based feature selection, unsupervised structural validation, and TreeSHAP explainability to provide transparent, biologically grounded risk assessments.
 
 > **Paper:** *X-EndoML: A Machine Learning-Driven Framework for Endometriosis Risk Explainable Prediction*  
+> **Status:** Submitted and accepted at **CoopIS** (International Conference on Cooperative Information Systems) — awaiting presentation.
 
 ---
 
