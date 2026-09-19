@@ -95,6 +95,13 @@ openpyxl
 
 ---
 
-## 📜 License
+## 📜 License & Attribution
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+- **Code & Framework:** The code, notebooks, and framework implementation are licensed under the [MIT License](LICENSE).
+- **Dataset:** The clinical symptom dataset (`dataset.xlsx`) is sourced from [Goldstein & Cohen (2023)](https://github.com/Tristan2024/endometriosis-dataset) / *Scientific Reports*. All rights and ownership of the original data belong to the respective authors. It is redistributed here solely for academic reproducibility and non-commercial scientific research.
+
+---
+
+## ⚠️ Medical Disclaimer
+
+`X-EndoML` is an academic research prototype developed for methodology validation, screening triage, and explainable feature analysis. It is **not** a certified medical diagnostic device and is not intended to substitute for professional medical advice, clinical evaluation, or laparoscopic diagnosis by a qualified healthcare professional.
